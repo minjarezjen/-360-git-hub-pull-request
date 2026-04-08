@@ -4,3 +4,5 @@ project(KnightsTour)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(KnightsTour main.cpp)
+
+// this looks great wow!
